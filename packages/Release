@@ -3,3 +3,12 @@ Component: contrib
 Origin: Various
 Label: Cornell Derecho
 Architecture: amd64
+Date: Tue, 01 Oct 2019 13:55:35 +0000
+MD5Sum:
+ c29323c78db8fb2bc8c157831e9e40e2             1020 Packages.gz
+SHA1:
+ 91c034429bdf14e68bbf019d8c7a11ad053e1858             1020 Packages.gz
+SHA256:
+ af3a3d23ba607062fcd214cac5be64912d2dd3a361aff6cba0d3b4110dc3713c             1020 Packages.gz
+SHA512:
+ bf080c47a577a8716d5606955b25133c1f2cf4b68036360459e4c821541bb8a462eb8619402fa805bcfd99cdf1cedadee16ce3d21e7d72a4f72477e850a33453             1020 Packages.gz
